@@ -1,187 +1,555 @@
-# GNANA SAI RK
-
-
-<p align="center">
-
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=190&section=header&text=GNANA%20SAI%20RK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Python%20%26%20Generative%20AI%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Gnana Sai RK Header"/>
-</p>
-
-
+```{=html}
 <p align="center">
 ```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&height=45&lines=Hi%20there!%20I'm%20Gnana%20Sai%20RK%20%F0%9F%91%8B;Engineering%20Student%20%26%20Web%20Developer%20%F0%9F%92%BB;Building%20Web%20Projects%20with%20HTML%2C%20CSS%2C%20JS%20%26%20PHP%20%F0%9F%8C%90;Python%20%26%20Generative%20AI%20Enthusiast%20%F0%9F%A4%96;Learning%2C%20Building%20%26%20Solving%20Real%20Problems%20%E2%9A%A1" alt="Typing SVG"/>`{=html}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>`{=html}
 ```{=html}
 </p>
 ```
 ```{=html}
 <p align="center">
 ```
-`<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/PRK-blogler-420">`{=html}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=48&lines=Hi+there!+I'm+Gnana+Sai+RK+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Python+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Practical+Projects+%E2%9A%A1" alt="Animated typing intro"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
 `<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
 `<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
 ```{=html}
 </p>
 ```
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=PRK-blogler-420&label=PROFILE%20VIEWS&color=0f766e&style=for-the-badge" alt="Profile views"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About Me
-
-Hi! I'm **Gnana Sai RK**, an **Engineering student and aspiring software
-developer** with a strong interest in **web development, Python,
-databases and Generative AI**.
-
-I enjoy learning by building practical academic and personal projects.
-My current technical learning covers frontend and backend web
-development, database-driven applications, Python programming and
-introductory AI/Generative AI.
-
-> **My approach:** Learn continuously → Build practically → Solve real
-> problems.
-
-### 🎓 Education
-
--   **Engineering / Bachelor's Degree --- Current Student**
--   **Branch:** AI&DS
--   **Institution:** Sampoorna Group of Institutions
--   **Expected Graduation:** 2029
-
-------------------------------------------------------------------------
-
-## 🛠️ Technical Skills
-
-### Programming
-
-`Python` `JavaScript` `C`
-
-### Web Development
-
-`HTML5` `CSS3` `JavaScript` `PHP` `Responsive Web Design`
-
-### Databases
-
-`MySQL / SQL` `MongoDB`
-
-### Tools
-
-`Git` `GitHub` `VS Code` `XAMPP`
-
-### AI & Cloud Learning
-
-`Generative AI` `Advanced ChatGPT` `Google Cloud / Introductory AI`
-
-### Concepts
-
-`Frontend Development` `Backend Development` `REST API Concepts`
-`Database-Driven Applications`
+```{=html}
+<h2 align="center">
+```
+✨ ABOUT ME
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=680&height=32&lines=Curious+Mind+%E2%86%92+Practical+Projects+%E2%86%92+Continuous+Learning" alt="Animated about me"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+Hey! I'm `<b>`{=html}Gnana Sai RK`</b>`{=html}, an
+`<b>`{=html}Engineering student and aspiring software
+developer`</b>`{=html} from India. I enjoy building practical web
+applications and learning how software, databases, Python and Generative
+AI can be used to solve real-world problems.
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/STATUS-🟢_LEARNING_%26_BUILDING-0f766e?style=for-the-badge" alt="Learning and Building"/>`{=html}
+`<img src="https://img.shields.io/badge/BRANCH-AI%26DS-14b8a6?style=for-the-badge" alt="AI and Data Science"/>`{=html}
+`<img src="https://img.shields.io/badge/GRADUATION-2029-0891b2?style=for-the-badge" alt="Graduation 2029"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 🚀 Featured Projects
+```{=html}
+<h2 align="center">
+```
+🎓 EDUCATION
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Engineering / Bachelor's Degree --- Current
+Student`</b>`{=html}`<br/>`{=html} `<b>`{=html}AI&DS Branch`</b>`{=html}
+• Sampoorna Group of Institutions`<br/>`{=html} `<b>`{=html}Expected
+Graduation: 2029`</b>`{=html}
+```{=html}
+</p>
+```
 
-### 💧 WaterGuard --- Automatic Water Motor OFF System
+------------------------------------------------------------------------
 
-A low-cost water-level protection concept using **sensors, relay control
-and an Arduino-based prototype** to help reduce water wastage and
+```{=html}
+<h2 align="center">
+```
+⚡ MY TECHNICAL WORLD
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Programming`</b>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,js,c&perline=3" alt="Python JavaScript C"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Web Development`</b>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" alt="HTML CSS JavaScript PHP"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Database & Development Tools`</b>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=5" alt="MySQL MongoDB Git GitHub VS Code"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Generative_AI-0f766e?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>`{=html}
+`<img src="https://img.shields.io/badge/Advanced_ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Advanced ChatGPT"/>`{=html}
+`<img src="https://img.shields.io/badge/Google_Cloud_%2F_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Concepts:`</b>`{=html} Frontend Development • Backend
+Development • Responsive Web Design • Database-Driven Applications •
+REST API Concepts
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<h2 align="center">
+```
+🚀 MY PROJECT UNIVERSE
+```{=html}
+</h2>
+```
+```{=html}
+<table width="100%">
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" align="center">
+```
+```{=html}
+<h3>
+```
+💧 WaterGuard
+```{=html}
+</h3>
+```
+`<b>`{=html}Automatic Water Motor OFF System`</b>`{=html}
+```{=html}
+<p>
+```
+A low-cost water-level protection concept using sensors, relay control
+and an Arduino-based prototype to help reduce water wastage and
 unnecessary motor operation.
-
-### 🧭 CareerPath Karnataka --- Career Guidance Platform
-
-An interactive web concept covering **PUC streams, diploma, ITI,
-defence/government paths and engineering branches**, with a client-side
-career guidance assistant.
-
-### 📄 Resume Builder
-
-A browser-based resume-builder concept with **form-driven profile data,
-templates and print/PDF-friendly output**.
-
-### 🚰 Water Ordering Website
-
-A **PHP/MySQL** practice application for collecting customer name,
-phone, quantity and address details for water orders.
-
-### 🌾 Karnataka Information Portal
-
-A district-focused web concept for presenting **Karnataka information,
-crops and educational content** through a responsive interface.
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" align="center">
+```
+```{=html}
+<h3>
+```
+🧭 CareerPath Karnataka
+```{=html}
+</h3>
+```
+`<b>`{=html}Career Guidance Platform`</b>`{=html}
+```{=html}
+<p>
+```
+An interactive web concept covering PUC streams, diploma, ITI,
+defence/government paths and engineering branches.
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" align="center">
+```
+```{=html}
+<h3>
+```
+📄 Resume Builder
+```{=html}
+</h3>
+```
+`<b>`{=html}Browser-Based Resume Builder`</b>`{=html}
+```{=html}
+<p>
+```
+A resume-builder concept with form-driven profile data, templates and
+print/PDF-friendly output.
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" align="center">
+```
+```{=html}
+<h3>
+```
+🚰 Water Ordering Website
+```{=html}
+</h3>
+```
+`<b>`{=html}PHP + MySQL Application`</b>`{=html}
+```{=html}
+<p>
+```
+A practice application for collecting customer name, phone, quantity and
+address details for water orders.
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td colspan="2" align="center">
+```
+```{=html}
+<h3>
+```
+🌾 Karnataka Information Portal
+```{=html}
+</h3>
+```
+```{=html}
+<p>
+```
+A district-focused responsive web concept for presenting Karnataka
+information, crops and educational content.
+```{=html}
+</p>
+```
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 ------------------------------------------------------------------------
 
-## 📚 Training & Learning
-
-  -----------------------------------------------------------------------
-  Training / Learning                 Details
-  ----------------------------------- -----------------------------------
-  **Full Stack Web Development ---    HTML, CSS, JavaScript, PHP and SQL
-  STP Computer Education**            with frontend and backend
-                                      development
-
-  **Computer Fundamentals --- 3-Month Microsoft Office, Word, Excel,
-  Training**                          PowerPoint, typing and essential
-                                      computer operations
-
-  **Python Programming**              Python 3.x learning/course work
-
-  **Generative AI & Advanced          Generative AI and Advanced ChatGPT
-  ChatGPT**                           learning, including SkillUp by
-                                      Simplilearn
-
-  **Google Cloud / AI Fundamentals**  Introductory learning related to
-                                      Google Cloud and AI
-
-  **Infosys Springboard**             14+ completed online
-                                      courses/certificates
-  -----------------------------------------------------------------------
+```{=html}
+<h2 align="center">
+```
+🎬 PROJECT FLOW
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=75&text=IDEA%20%E2%86%92%20DESIGN%20%E2%86%92%20CODE%20%E2%86%92%20DATABASE%20%E2%86%92%20TEST%20%E2%86%92%20BUILD&fontColor=2dd4bf&fontSize=18" width="100%" alt="Project workflow"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 🏆 Certifications & Credentials
-
--   **Full Stack Web Development** --- STP Computer Education
--   **Python 3.x Course**
--   **Generative AI Course**
--   **Advanced ChatGPT** --- SkillUp by Simplilearn
--   **Google Cloud / Introduction to AI Learning**
--   **Infosys Springboard** --- Multiple completed courses/certificates
+```{=html}
+<h2 align="center">
+```
+📚 TRAINING & LEARNING JOURNEY
+```{=html}
+</h2>
+```
+```{=html}
+<table width="100%">
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Full Stack Web Development`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+STP Computer Education --- HTML, CSS, JavaScript, PHP and SQL; frontend
+and backend development
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Computer Fundamentals`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+3-month training --- Microsoft Office, Word, Excel, PowerPoint, typing
+and essential computer operations
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Python Programming`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Python 3.x learning/course work
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Generative AI & Advanced ChatGPT`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Generative AI and Advanced ChatGPT learning, including SkillUp by
+Simplilearn
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Google Cloud / AI Fundamentals`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+Introductory learning related to Google Cloud and AI
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td>
+```
+`<b>`{=html}Infosys Springboard`</b>`{=html}
+```{=html}
+</td>
+```
+```{=html}
+<td>
+```
+14+ completed online courses/certificates
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
 
 ------------------------------------------------------------------------
 
-## 💡 Professional Strengths
-
--   Problem Solving
--   Project-Based Learning
--   Fast Learning
--   Web Development
--   Technical Curiosity
--   Communication
--   Continuous Learning
+```{=html}
+<h2 align="center">
+```
+🏆 CERTIFICATIONS
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Full_Stack_Web_Development-STP_Computer_Education-0f766e?style=for-the-badge" alt="Full Stack"/>`{=html}
+`<img src="https://img.shields.io/badge/Python_3.x-Course-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>`{=html}
+`<img src="https://img.shields.io/badge/Generative_AI-Course-0891b2?style=for-the-badge" alt="Generative AI"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Advanced_ChatGPT-SkillUp_by_Simplilearn-0f766e?style=for-the-badge" alt="Advanced ChatGPT"/>`{=html}
+`<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>`{=html}
+`<img src="https://img.shields.io/badge/Infosys_Springboard-14%2B_Courses-007CC3?style=for-the-badge" alt="Infosys Springboard"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 🎯 Current Focus
-
--   🌐 Building practical **frontend and backend web applications**
--   🐍 Strengthening **Python programming**
--   🗄️ Learning and applying **database technologies**
--   🤖 Exploring **Generative AI and AI-powered solutions**
--   🚀 Improving through **academic and personal projects**
--   🧩 Developing stronger **software problem-solving skills**
+```{=html}
+<h2 align="center">
+```
+💡 STRENGTHS
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Problem_Solving-0f766e?style=for-the-badge" alt="Problem Solving"/>`{=html}
+`<img src="https://img.shields.io/badge/Project_Based_Learning-0891b2?style=for-the-badge" alt="Project Based Learning"/>`{=html}
+`<img src="https://img.shields.io/badge/Fast_Learner-0f172a?style=for-the-badge" alt="Fast Learner"/>`{=html}
+`<img src="https://img.shields.io/badge/Technical_Curiosity-0f766e?style=for-the-badge" alt="Technical Curiosity"/>`{=html}
+`<img src="https://img.shields.io/badge/Communication-0891b2?style=for-the-badge" alt="Communication"/>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
-## 🌐 Portfolio & Profiles
+```{=html}
+<h2 align="center">
+```
+🎯 CURRENT FOCUS
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Building+Web+Applications+%F0%9F%8C%90;Strengthening+Python+%F0%9F%90%8D;Learning+Databases+%F0%9F%97%84%EF%B8%8F;Exploring+Generative+AI+%F0%9F%A4%96;Turning+Learning+Into+Projects+%F0%9F%9A%80" alt="Current focus animation"/>`{=html}
+```{=html}
+</p>
+```
 
+------------------------------------------------------------------------
+
+```{=html}
+<h2 align="center">
+```
+🌐 LIVE PORTFOLIO
+```{=html}
+</h2>
+```
 ```{=html}
 <p align="center">
 ```
 `<a href="https://career-guide-after-10-class-8sgs.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/CareerPath_Karnataka-Live_Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath Karnataka"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/PRK-blogler-420">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-View_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`<img src="https://img.shields.io/badge/CAREERPATH_KARNATAKA-OPEN_PROJECT-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath Karnataka"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/PRK-blogler-420">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-VIEW_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
 `</a>`{=html}
 `<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
 `</a>`{=html}
 ```{=html}
 </p>
@@ -189,8 +557,13 @@ crops and educational content** through a responsive interface.
 
 ------------------------------------------------------------------------
 
-## 📊 GitHub
-
+```{=html}
+<h2 align="center">
+```
+📊 GITHUB ANALYTICS
+```{=html}
+</h2>
+```
 ```{=html}
 <p align="center">
 ```
@@ -201,23 +574,49 @@ crops and educational content** through a responsive interface.
 ```{=html}
 </p>
 ```
-
-------------------------------------------------------------------------
-
-## 🤝 Let's Connect
-
-I'm interested in **learning, building practical software projects and
-connecting with developers, students and technology communities**.
-
 ```{=html}
 <p align="center">
 ```
-`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}📧
-Email`</a>`{=html} •
-`<a href="https://github.com/PRK-blogler-420">`{=html}💻
-GitHub`</a>`{=html} •
-`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}🔗
-LinkedIn`</a>`{=html}
+`<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<h2 align="center">
+```
+🤝 LET'S CONNECT
+```{=html}
+</h2>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}Learning • Building • Creating • Collaborating`</b>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-gnanasairamakrishna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/PRK-blogler-420">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Gnana_Sai_RK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<b>`{=html}📧 gnanasairamakrishna@gmail.com`</b>`{=html}`<br/>`{=html}
+`<b>`{=html}📱 +91-9480090065`</b>`{=html}
 ```{=html}
 </p>
 ```
@@ -229,238 +628,10 @@ problems."`</i>`{=html}
 ```{=html}
 </p>
 ```
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
-
+```{=html}
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:14b8a6,100:07111f&height=120&section=footer" width="100%" alt="Animated footer"/>`{=html}
+```{=html}
 </p>
-
----
-
-<h2 align="center">🔴 About Me</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
-</p>
-
-<p align="center">
-  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
-</p>
-
-<p align="center">
-  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
-  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
-</p>
-
-<table width="100%" border="0" align="center">
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Project</h4>
-  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
-</td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Active Deep Dives</h4>
-  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>📱 Tech Creator</h4>
-  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
-</td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
-  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🔴 Featured Project Spotlight</h2>
-
-<table width="100%" border="0" align="center">
-<tr>
-<td align="center" style="padding: 22px;">
-  <h3>🔬 OpenCore Mastitis Monitor</h3>
-  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
-  <br />
-  <p>
-    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
-  </p>
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
-
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
-
-<p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<p align="center"><b>Core Programming Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
-  </a>
-</p>
-
-<p align="center"><b>Frontend & Mobile Development</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
-  </a>
-</p>
-
-<p align="center"><b>Backend, Cloud & Databases</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
-  </a>
-</p>
-
-<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
-</p>
-
----
-
-<h2 align="center">⚡ Contribution Journey</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
-</p>
-
----
-
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
-
-<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br />
-  <sub><b>Professional Network</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.instagram.com/techwin.in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  <br />
-  <sub><b>Articles &amp; Tech Guides</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:deepakamalwinstarj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
-</p>
+```
