@@ -255,36 +255,27 @@ and backend development
 <tr>
 
 <td>
-<b>Computer Fundamentals`</b>`{=html}
+<b>Computer Fundamentals</b>
 
 </td>
-```
-```{=html}
 <td>
-```
 3-month training --- Microsoft Office, Word, Excel, PowerPoint, typing
 and essential computer operations
-```{=html}
+
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td>
-```
-`<b>`{=html}Python Programming`</b>`{=html}
-```{=html}
+<b>Python Programming</b>
 </td>
-```
-```{=html}
+
 <td>
-```
+
 Python 3.x learning/course work
-```{=html}
+
 </td>
 ```
 ```{=html}
