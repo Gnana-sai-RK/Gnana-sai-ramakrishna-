@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
-<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+<a href="https://github.com/PRK-blogler-420"><img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
 <a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
 ```{=html}
 </p>
