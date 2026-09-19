@@ -133,8 +133,8 @@ REST API Concepts
 </h3>
 <b>Automatic Water Motor OFF System</b>
 <p>
-A low-cost water-level protection concept using sensors, relay control
-and an Arduino-based prototype to help reduce water wastage and
+A low-cost water-level protection concept using transistor, relay control
+and an Diode -based prototype to help reduce water wastage and
 unnecessary motor operation.
 
 </p>
@@ -276,44 +276,26 @@ and essential computer operations
 Python 3.x learning/course work
 
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td>
-```
-`<b>`{=html}Generative AI & Advanced ChatGPT`</b>`{=html}
-```{=html}
+<b>Generative AI & Advanced ChatGPT</b>
 </td>
-```
-```{=html}
-<td>
-```
-Generative AI and Advanced ChatGPT learning, including SkillUp by
-Simplilearn
-```{=html}
-</td>
-```
-```{=html}
+
+<td>Generative AI and Advanced ChatGPT learning, including SkillUp by
+Simplilearn</td>
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td>
-```
-`<b>`{=html}Google Cloud / AI Fundamentals`</b>`{=html}
-```{=html}
+<b>Google Cloud / AI Fundamentals</b>
 </td>
-```
-```{=html}
+
 <td>
-```
+
 Introductory learning related to Google Cloud and AI
 </td>
 </tr>
@@ -346,11 +328,9 @@ Introductory learning related to Google Cloud and AI
 <img src="https://img.shields.io/badge/Python_3.x-Course-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Generative_AI-Course-0891b2?style=for-the-badge" alt="Generative AI"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Advanced_ChatGPT-SkillUp_by_Simplilearn-0f766e?style=for-the-badge" alt="Advanced ChatGPT"/>
+<img src="https://img.shields.io/badge/Advanced_ChatGPT-SkillUp_by_Simplilearn-0f766e?style=for-the-badge" alt="Advanced ChatGPT"/>
 <img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 <img src="https://img.shields.io/badge/Infosys_Springboard-14%2B_Courses-007CC3?style=for-the-badge" alt="Infosys Springboard"/>
 </p>
