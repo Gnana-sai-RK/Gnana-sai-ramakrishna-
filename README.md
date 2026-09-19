@@ -1,25 +1,22 @@
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/PRK-blogler-420">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=48&lines=Hi+there!+I'm+Gnana+Sai+RK+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Python+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Practical+Projects+%E2%9A%A1" alt="Animated typing intro"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://github.com/PRK-blogler-420">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=900&color=2DD4BF&center=true&vCenter=true&width=760&height=48&lines=Hi+there!+I'm+Gnana+Sai+RK+%F0%9F%91%8B;Engineering+Student+%F0%9F%8E%93;Web+Developer+%F0%9F%92%BB;Python+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Practical+Projects+%E2%9A%A1" alt="Animated typing intro"/>
+</a>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
-`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
-`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
+<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
+<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
 ```{=html}
 </p>
 ```
