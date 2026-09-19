@@ -1,15 +1,235 @@
-<p align="center">
-  <img src="assets/header.svg" width="100%" alt="Gnana sai ramakrishna J Header" />
-</p>
+# GNANA SAI RK
 
+```{=html}
 <p align="center">
-  <a href="https://github.com/DeepakAmalWinstarJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
-  </a>
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=190&section=header&text=GNANA%20SAI%20RK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Python%20%26%20Generative%20AI%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Gnana Sai RK Header"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&height=45&lines=Hi%20there!%20I'm%20Gnana%20Sai%20RK%20%F0%9F%91%8B;Engineering%20Student%20%26%20Web%20Developer%20%F0%9F%92%BB;Building%20Web%20Projects%20with%20HTML%2C%20CSS%2C%20JS%20%26%20PHP%20%F0%9F%8C%90;Python%20%26%20Generative%20AI%20Enthusiast%20%F0%9F%A4%96;Learning%2C%20Building%20%26%20Solving%20Real%20Problems%20%E2%9A%A1" alt="Typing SVG"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/PRK-blogler-420">`{=html}`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 👨‍💻 About Me
+
+Hi! I'm **Gnana Sai RK**, an **Engineering student and aspiring software
+developer** with a strong interest in **web development, Python,
+databases and Generative AI**.
+
+I enjoy learning by building practical academic and personal projects.
+My current technical learning covers frontend and backend web
+development, database-driven applications, Python programming and
+introductory AI/Generative AI.
+
+> **My approach:** Learn continuously → Build practically → Solve real
+> problems.
+
+### 🎓 Education
+
+-   **Engineering / Bachelor's Degree --- Current Student**
+-   **Branch:** AI&DS
+-   **Institution:** Sampoorna Group of Institutions
+-   **Expected Graduation:** 2029
+
+------------------------------------------------------------------------
+
+## 🛠️ Technical Skills
+
+### Programming
+
+`Python` `JavaScript` `C`
+
+### Web Development
+
+`HTML5` `CSS3` `JavaScript` `PHP` `Responsive Web Design`
+
+### Databases
+
+`MySQL / SQL` `MongoDB`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `XAMPP`
+
+### AI & Cloud Learning
+
+`Generative AI` `Advanced ChatGPT` `Google Cloud / Introductory AI`
+
+### Concepts
+
+`Frontend Development` `Backend Development` `REST API Concepts`
+`Database-Driven Applications`
+
+------------------------------------------------------------------------
+
+## 🚀 Featured Projects
+
+### 💧 WaterGuard --- Automatic Water Motor OFF System
+
+A low-cost water-level protection concept using **sensors, relay control
+and an Arduino-based prototype** to help reduce water wastage and
+unnecessary motor operation.
+
+### 🧭 CareerPath Karnataka --- Career Guidance Platform
+
+An interactive web concept covering **PUC streams, diploma, ITI,
+defence/government paths and engineering branches**, with a client-side
+career guidance assistant.
+
+### 📄 Resume Builder
+
+A browser-based resume-builder concept with **form-driven profile data,
+templates and print/PDF-friendly output**.
+
+### 🚰 Water Ordering Website
+
+A **PHP/MySQL** practice application for collecting customer name,
+phone, quantity and address details for water orders.
+
+### 🌾 Karnataka Information Portal
+
+A district-focused web concept for presenting **Karnataka information,
+crops and educational content** through a responsive interface.
+
+------------------------------------------------------------------------
+
+## 📚 Training & Learning
+
+  -----------------------------------------------------------------------
+  Training / Learning                 Details
+  ----------------------------------- -----------------------------------
+  **Full Stack Web Development ---    HTML, CSS, JavaScript, PHP and SQL
+  STP Computer Education**            with frontend and backend
+                                      development
+
+  **Computer Fundamentals --- 3-Month Microsoft Office, Word, Excel,
+  Training**                          PowerPoint, typing and essential
+                                      computer operations
+
+  **Python Programming**              Python 3.x learning/course work
+
+  **Generative AI & Advanced          Generative AI and Advanced ChatGPT
+  ChatGPT**                           learning, including SkillUp by
+                                      Simplilearn
+
+  **Google Cloud / AI Fundamentals**  Introductory learning related to
+                                      Google Cloud and AI
+
+  **Infosys Springboard**             14+ completed online
+                                      courses/certificates
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## 🏆 Certifications & Credentials
+
+-   **Full Stack Web Development** --- STP Computer Education
+-   **Python 3.x Course**
+-   **Generative AI Course**
+-   **Advanced ChatGPT** --- SkillUp by Simplilearn
+-   **Google Cloud / Introduction to AI Learning**
+-   **Infosys Springboard** --- Multiple completed courses/certificates
+
+------------------------------------------------------------------------
+
+## 💡 Professional Strengths
+
+-   Problem Solving
+-   Project-Based Learning
+-   Fast Learning
+-   Web Development
+-   Technical Curiosity
+-   Communication
+-   Continuous Learning
+
+------------------------------------------------------------------------
+
+## 🎯 Current Focus
+
+-   🌐 Building practical **frontend and backend web applications**
+-   🐍 Strengthening **Python programming**
+-   🗄️ Learning and applying **database technologies**
+-   🤖 Exploring **Generative AI and AI-powered solutions**
+-   🚀 Improving through **academic and personal projects**
+-   🧩 Developing stronger **software problem-solving skills**
+
+------------------------------------------------------------------------
+
+## 🌐 Portfolio & Profiles
+
+```{=html}
+<p align="center">
+```
+`<a href="https://career-guide-after-10-class-8sgs.vercel.app/">`{=html}
+`<img src="https://img.shields.io/badge/CareerPath_Karnataka-Live_Project-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath Karnataka"/>`{=html}
+`</a>`{=html} `<a href="https://github.com/PRK-blogler-420">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-View_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
+`</a>`{=html}
+`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 📊 GitHub
+
+```{=html}
+<p align="center">
+```
+`<a href="https://github.com/PRK-blogler-420">`{=html}
+`<img src="https://github-readme-stats.vercel.app/api?username=PRK-blogler-420&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=14B8A6&text_color=475569" width="48%" alt="GitHub Stats"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRK-blogler-420&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=475569" width="42%" alt="Top Languages"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🤝 Let's Connect
+
+I'm interested in **learning, building practical software projects and
+connecting with developers, students and technology communities**.
+
+```{=html}
+<p align="center">
+```
+`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}📧
+Email`</a>`{=html} •
+`<a href="https://github.com/PRK-blogler-420">`{=html}💻
+GitHub`</a>`{=html} •
+`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}🔗
+LinkedIn`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<i>`{=html}"Learn continuously. Build practically. Solve real
+problems."`</i>`{=html}
+```{=html}
+</p>
+```
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   &nbsp;
