@@ -359,7 +359,19 @@ Introductory learning related to Google Cloud and AI
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Building+Web+Applications+%F0%9F%8C%90;Strengthening+Python+%F0%9F%90%8D;Learning+Databases+%F0%9F%97%84%EF%B8%8F;Exploring+Generative+AI+%F0%9F%A4%96;Turning+Learning+Into+Projects+%F0%9F%9A%80" alt="Current focus animation"/>
 </p>
 
+## 🧩 LeetCode Problem Solving
 
+<p align="center">
+  <a href="https://leetcode.com/u/Gnana_sai01/">
+    <img src="https://leetcard.jacoblin.cool/Gnana_sai01?theme=dark&font=baloo&ext=heatmap" width="95%" alt="Gnana Sai LeetCode Statistics"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Gnana_sai01/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
 ------------------------------------------------------------------------
 
 
