@@ -1,13 +1,12 @@
 # GNANA SAI RK
 
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=190&section=header&text=GNANA%20SAI%20RK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Python%20%26%20Generative%20AI%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Gnana Sai RK Header"/>`{=html}
-```{=html}
+
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0f766e,100:14b8a6&height=190&section=header&text=GNANA%20SAI%20RK&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Student%20%7C%20Web%20Developer%20%7C%20Python%20%26%20Generative%20AI%20Enthusiast&descAlignY=62&descSize=17" width="100%" alt="Gnana Sai RK Header"/>
 </p>
-```
-```{=html}
+
+
 <p align="center">
 ```
 `<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=14B8A6&center=true&vCenter=true&width=720&height=45&lines=Hi%20there!%20I'm%20Gnana%20Sai%20RK%20%F0%9F%91%8B;Engineering%20Student%20%26%20Web%20Developer%20%F0%9F%92%BB;Building%20Web%20Projects%20with%20HTML%2C%20CSS%2C%20JS%20%26%20PHP%20%F0%9F%8C%90;Python%20%26%20Generative%20AI%20Enthusiast%20%F0%9F%A4%96;Learning%2C%20Building%20%26%20Solving%20Real%20Problems%20%E2%9A%A1" alt="Typing SVG"/>`{=html}
