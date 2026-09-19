@@ -15,49 +15,40 @@
 
 <p align="center">
 <a href="https://github.com/PRK-blogler-420"><img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
-<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
-```{=html}
+<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=PRK-blogler-420&label=PROFILE%20VIEWS&color=0f766e&style=for-the-badge" alt="Profile views"/>`{=html}
-```{=html}
+
+<img src="https://komarev.com/ghpvc/?username=PRK-blogler-420&label=PROFILE%20VIEWS&color=0f766e&style=for-the-badge" alt="Profile views"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 ✨ ABOUT ME
-```{=html}
+
 </h2>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=680&height=32&lines=Curious+Mind+%E2%86%92+Practical+Projects+%E2%86%92+Continuous+Learning" alt="Animated about me"/>`{=html}
-```{=html}
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=680&height=32&lines=Curious+Mind+%E2%86%92+Practical+Projects+%E2%86%92+Continuous+Learning" alt="Animated about me"/>
 </p>
-```
-```{=html}
 <p align="center">
-```
-Hey! I'm `<b>`{=html}Gnana Sai RK`</b>`{=html}, an
+Hey! I'm <b>Gnana Sai RK</b>, an
 `<b>`{=html}Engineering student and aspiring software
-developer`</b>`{=html} from India. I enjoy building practical web
+developer</b> from India. I enjoy building practical web
 applications and learning how software, databases, Python and Generative
 AI can be used to solve real-world problems.
-```{=html}
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
+
 `<img src="https://img.shields.io/badge/STATUS-🟢_LEARNING_%26_BUILDING-0f766e?style=for-the-badge" alt="Learning and Building"/>`{=html}
 `<img src="https://img.shields.io/badge/BRANCH-AI%26DS-14b8a6?style=for-the-badge" alt="AI and Data Science"/>`{=html}
 `<img src="https://img.shields.io/badge/GRADUATION-2029-0891b2?style=for-the-badge" alt="Graduation 2029"/>`{=html}
