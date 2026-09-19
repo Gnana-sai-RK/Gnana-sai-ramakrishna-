@@ -16,7 +16,7 @@
 <p align="center">
 <a href="https://github.com/PRK-blogler-420"><img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:gnanasairamakrishna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 <p align="center">
 
@@ -40,7 +40,7 @@
 </p>
 <p align="center">
 Hey! I'm <b>Gnana Sai RK</b>, an
-`<b>`{=html}Engineering student and aspiring software
+<b>Engineering student and aspiring software
 developer</b> from India. I enjoy building practical web
 applications and learning how software, databases, Python and Generative
 AI can be used to solve real-world problems.
@@ -49,304 +49,214 @@ AI can be used to solve real-world problems.
 
 <p align="center">
 
-`<img src="https://img.shields.io/badge/STATUS-🟢_LEARNING_%26_BUILDING-0f766e?style=for-the-badge" alt="Learning and Building"/>`{=html}
-`<img src="https://img.shields.io/badge/BRANCH-AI%26DS-14b8a6?style=for-the-badge" alt="AI and Data Science"/>`{=html}
-`<img src="https://img.shields.io/badge/GRADUATION-2029-0891b2?style=for-the-badge" alt="Graduation 2029"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/STATUS-🟢_LEARNING_%26_BUILDING-0f766e?style=for-the-badge" alt="Learning and Building"/>
+<img src="https://img.shields.io/badge/BRANCH-AI%26DS-14b8a6?style=for-the-badge" alt="AI and Data Science"/>
+<img src="https://img.shields.io/badge/GRADUATION-2029-0891b2?style=for-the-badge" alt="Graduation 2029"/>
 </p>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
 <h2 align="center">
-```
 🎓 EDUCATION
-```{=html}
+
 </h2>
-```
-```{=html}
 <p align="center">
-```
-`<b>`{=html}Engineering / Bachelor's Degree --- Current
-Student`</b>`{=html}`<br/>`{=html} `<b>`{=html}AI&DS Branch`</b>`{=html}
-• Sampoorna Group of Institutions`<br/>`{=html} `<b>`{=html}Expected
-Graduation: 2029`</b>`{=html}
-```{=html}
+<b>Engineering / Bachelor's Degree --- Current
+Student</b><br/><b>AI&DS Branch</b>
+• Sampoorna Group of Institutions<br/><b>Expected
+Graduation: 2029</b>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 ⚡ MY TECHNICAL WORLD
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}Programming`</b>`{=html}
-```{=html}
+<b>Programming`</b>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,js,c&perline=3" alt="Python JavaScript C"/>`{=html}
-```{=html}
+<img src="https://skillicons.dev/icons?i=python,js,c&perline=3" alt="Python JavaScript C"/>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<b>`{=html}Web Development`</b>`{=html}
-```{=html}
+<b>Web Development`</b>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" alt="HTML CSS JavaScript PHP"/>`{=html}
-```{=html}
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php&perline=4" alt="HTML CSS JavaScript PHP"/>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}Database & Development Tools`</b>`{=html}
-```{=html}
+
+<b>Database & Development Tools</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=5" alt="MySQL MongoDB Git GitHub VS Code"/>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode&perline=5" alt="MySQL MongoDB Git GitHub VS Code"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/Generative_AI-0f766e?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Advanced_ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Advanced ChatGPT"/><img src="https://img.shields.io/badge/Google_Cloud_%2F_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI"/>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Generative_AI-0f766e?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>`{=html}
-`<img src="https://img.shields.io/badge/Advanced_ChatGPT-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Advanced ChatGPT"/>`{=html}
-`<img src="https://img.shields.io/badge/Google_Cloud_%2F_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud AI"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<b>`{=html}Concepts:`</b>`{=html} Frontend Development • Backend
+
+<b>Concepts:</b>Frontend Development • Backend
 Development • Responsive Web Design • Database-Driven Applications •
 REST API Concepts
-```{=html}
+
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
 ```
 🚀 MY PROJECT UNIVERSE
-```{=html}
+
 </h2>
-```
-```{=html}
 <table width="100%">
-```
-```{=html}
+
+
 <tr>
-```
-```{=html}
+
 <td width="50%" align="center">
-```
-```{=html}
+
 <h3>
 ```
 💧 WaterGuard
-```{=html}
 </h3>
-```
-`<b>`{=html}Automatic Water Motor OFF System`</b>`{=html}
-```{=html}
+<b>`{=html}Automatic Water Motor OFF System`</b>`{=html}
+
 <p>
-```
 A low-cost water-level protection concept using sensors, relay control
 and an Arduino-based prototype to help reduce water wastage and
 unnecessary motor operation.
-```{=html}
+
 </p>
-```
-```{=html}
 </td>
-```
-```{=html}
 <td width="50%" align="center">
-```
-```{=html}
 <h3>
-```
+
 🧭 CareerPath Karnataka
-```{=html}
+
 </h3>
-```
-`<b>`{=html}Career Guidance Platform`</b>`{=html}
-```{=html}
+<b>Career Guidance Platform</b>
 <p>
-```
+
 An interactive web concept covering PUC streams, diploma, ITI,
 defence/government paths and engineering branches.
-```{=html}
+
 </p>
-```
-```{=html}
+
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td width="50%" align="center">
-```
-```{=html}
+
 <h3>
-```
+
 📄 Resume Builder
-```{=html}
+
 </h3>
-```
-`<b>`{=html}Browser-Based Resume Builder`</b>`{=html}
-```{=html}
+
+<b>Browser-Based Resume Builder</b>
 <p>
-```
+
 A resume-builder concept with form-driven profile data, templates and
 print/PDF-friendly output.
-```{=html}
+
 </p>
-```
-```{=html}
+
 </td>
-```
-```{=html}
+
 <td width="50%" align="center">
-```
-```{=html}
+
+
 <h3>
-```
-🚰 Water Ordering Website
-```{=html}
+🚰 neera Ordering Website
 </h3>
-```
-`<b>`{=html}PHP + MySQL Application`</b>`{=html}
-```{=html}
+
+<b>PHP + MySQL Application</b>
 <p>
-```
+
 A practice application for collecting customer name, phone, quantity and
 address details for water orders.
-```{=html}
+
 </p>
-```
-```{=html}
+
 </td>
-```
-```{=html}
+
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td colspan="2" align="center">
-```
-```{=html}
+
 <h3>
-```
 🌾 Karnataka Information Portal
-```{=html}
 </h3>
-```
-```{=html}
+
 <p>
-```
+
 A district-focused responsive web concept for presenting Karnataka
 information, crops and educational content.
-```{=html}
+
 </p>
-```
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 </table>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 🎬 PROJECT FLOW
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=75&text=IDEA%20%E2%86%92%20DESIGN%20%E2%86%92%20CODE%20%E2%86%92%20DATABASE%20%E2%86%92%20TEST%20%E2%86%92%20BUILD&fontColor=2dd4bf&fontSize=18" width="100%" alt="Project workflow"/>`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=75&text=IDEA%20%E2%86%92%20DESIGN%20%E2%86%92%20CODE%20%E2%86%92%20DATABASE%20%E2%86%92%20TEST%20%E2%86%92%20BUILD&fontColor=2dd4bf&fontSize=18" width="100%" alt="Project workflow"/>
+
 </p>
-```
 
 ------------------------------------------------------------------------
 
-```{=html}
 <h2 align="center">
-```
+
 📚 TRAINING & LEARNING JOURNEY
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <table width="100%">
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td>
-```
-`<b>`{=html}Full Stack Web Development`</b>`{=html}
-```{=html}
+<b>{=html}Full Stack Web Development</b>
 </td>
-```
-```{=html}
 <td>
-```
 STP Computer Education --- HTML, CSS, JavaScript, PHP and SQL; frontend
 and backend development
-```{=html}
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
+
 <td>
-```
-`<b>`{=html}Computer Fundamentals`</b>`{=html}
+<b>Computer Fundamentals`</b>`{=html}
 ```{=html}
 </td>
 ```
