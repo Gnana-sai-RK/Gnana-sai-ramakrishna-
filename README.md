@@ -1,7 +1,8 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated 
+  <header"/>
 
 </p>
 
@@ -117,7 +118,6 @@ REST API Concepts
 
 
 <h2 align="center">
-```
 🚀 MY PROJECT UNIVERSE
 
 </h2>
@@ -129,11 +129,10 @@ REST API Concepts
 <td width="50%" align="center">
 
 <h3>
-```
+
 💧 WaterGuard
 </h3>
-<b>`{=html}Automatic Water Motor OFF System`</b>`{=html}
-
+<b>Automatic Water Motor OFF System</b>
 <p>
 A low-cost water-level protection concept using sensors, relay control
 and an Arduino-based prototype to help reduce water wastage and
@@ -244,7 +243,7 @@ information, crops and educational content.
 
 <tr>
 <td>
-<b>{=html}Full Stack Web Development</b>
+<b>Full Stack Web Development</b>
 </td>
 <td>
 STP Computer Education --- HTML, CSS, JavaScript, PHP and SQL; frontend
@@ -257,7 +256,7 @@ and backend development
 
 <td>
 <b>Computer Fundamentals`</b>`{=html}
-```{=html}
+
 </td>
 ```
 ```{=html}
