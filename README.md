@@ -1,8 +1,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated 
-  <header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>
 
 </p>
 
@@ -316,210 +315,146 @@ Simplilearn
 <td>
 ```
 Introductory learning related to Google Cloud and AI
-```{=html}
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td>
-```
-`<b>`{=html}Infosys Springboard`</b>`{=html}
-```{=html}
+<b>Infosys Springboard`</b>
 </td>
-```
-```{=html}
+
 <td>
-```
+
 14+ completed online courses/certificates
-```{=html}
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 </table>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 🏆 CERTIFICATIONS
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Full_Stack_Web_Development-STP_Computer_Education-0f766e?style=for-the-badge" alt="Full Stack"/>`{=html}
-`<img src="https://img.shields.io/badge/Python_3.x-Course-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>`{=html}
-`<img src="https://img.shields.io/badge/Generative_AI-Course-0891b2?style=for-the-badge" alt="Generative AI"/>`{=html}
-```{=html}
+<img src="https://img.shields.io/badge/Full_Stack_Web_Development-STP_Computer_Education-0f766e?style=for-the-badge" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/Python_3.x-Course-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Generative_AI-Course-0891b2?style=for-the-badge" alt="Generative AI"/>
 </p>
 ```
 ```{=html}
 <p align="center">
 ```
-`<img src="https://img.shields.io/badge/Advanced_ChatGPT-SkillUp_by_Simplilearn-0f766e?style=for-the-badge" alt="Advanced ChatGPT"/>`{=html}
-`<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>`{=html}
-`<img src="https://img.shields.io/badge/Infosys_Springboard-14%2B_Courses-007CC3?style=for-the-badge" alt="Infosys Springboard"/>`{=html}
-```{=html}
+`<img src="https://img.shields.io/badge/Advanced_ChatGPT-SkillUp_by_Simplilearn-0f766e?style=for-the-badge" alt="Advanced ChatGPT"/>
+<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/Infosys_Springboard-14%2B_Courses-007CC3?style=for-the-badge" alt="Infosys Springboard"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 💡 STRENGTHS
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Problem_Solving-0f766e?style=for-the-badge" alt="Problem Solving"/>`{=html}
-`<img src="https://img.shields.io/badge/Project_Based_Learning-0891b2?style=for-the-badge" alt="Project Based Learning"/>`{=html}
-`<img src="https://img.shields.io/badge/Fast_Learner-0f172a?style=for-the-badge" alt="Fast Learner"/>`{=html}
-`<img src="https://img.shields.io/badge/Technical_Curiosity-0f766e?style=for-the-badge" alt="Technical Curiosity"/>`{=html}
-`<img src="https://img.shields.io/badge/Communication-0891b2?style=for-the-badge" alt="Communication"/>`{=html}
-```{=html}
+
+<img src="https://img.shields.io/badge/Problem_Solving-0f766e?style=for-the-badge" alt="Problem Solving"/><img src="https://img.shields.io/badge/Project_Based_Learning-0891b2?style=for-the-badge" alt="Project Based Learning"/><img src="https://img.shields.io/badge/Fast_Learner-0f172a?style=for-the-badge" alt="Fast Learner"/><img src="https://img.shields.io/badge/Technical_Curiosity-0f766e?style=for-the-badge" alt="Technical Curiosity"/><img src="https://img.shields.io/badge/Communication-0891b2?style=for-the-badge" alt="Communication"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
 🎯 CURRENT FOCUS
-```{=html}
 </h2>
-```
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Building+Web+Applications+%F0%9F%8C%90;Strengthening+Python+%F0%9F%90%8D;Learning+Databases+%F0%9F%97%84%EF%B8%8F;Exploring+Generative+AI+%F0%9F%A4%96;Turning+Learning+Into+Projects+%F0%9F%9A%80" alt="Current focus animation"/>`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=700&color=14B8A6&center=true&vCenter=true&width=700&height=35&lines=Building+Web+Applications+%F0%9F%8C%90;Strengthening+Python+%F0%9F%90%8D;Learning+Databases+%F0%9F%97%84%EF%B8%8F;Exploring+Generative+AI+%F0%9F%A4%96;Turning+Learning+Into+Projects+%F0%9F%9A%80" alt="Current focus animation"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 🌐 LIVE PORTFOLIO
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://career-guide-after-10-class-8sgs.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/CAREERPATH_KARNATAKA-OPEN_PROJECT-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath Karnataka"/>`{=html}
-`</a>`{=html}
-```{=html}
+
+<a href="https://career-guide-after-10-class-8sgs.vercel.app/"><img src="https://img.shields.io/badge/CAREERPATH_KARNATAKA-OPEN_PROJECT-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="CareerPath Karnataka"/></a>
 </p>
-```
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/PRK-blogler-420">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-VIEW_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html}
-```{=html}
+<a href="https://github.com/PRK-blogler-420">
+  <img src="https://img.shields.io/badge/GitHub-VIEW_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
+
 <h2 align="center">
-```
+
 📊 GITHUB ANALYTICS
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="https://github.com/PRK-blogler-420">`{=html}
-`<img src="https://github-readme-stats.vercel.app/api?username=PRK-blogler-420&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=14B8A6&text_color=475569" width="48%" alt="GitHub Stats"/>`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRK-blogler-420&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=475569" width="42%" alt="Top Languages"/>`{=html}
-`</a>`{=html}
-```{=html}
+<a href="https://github.com/PRK-blogler-420">
+  <img src="https://github-readme-stats.vercel.app/api?username=PRK-blogler-420&show_icons=true&theme=transparent&hide_border=true&title_color=0F766E&icon_color=14B8A6&text_color=475569" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRK-blogler-420&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=475569" width="42%" alt="Top Languages"/></a>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>`{=html}
-```{=html}
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 </p>
-```
+
 
 ------------------------------------------------------------------------
 
-```{=html}
 <h2 align="center">
-```
 🤝 LET'S CONNECT
-```{=html}
+
 </h2>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}Learning • Building • Creating • Collaborating`</b>`{=html}
-```{=html}
+
+<b>Learning • Building • Creating • Collaborating</b>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<a href="mailto:gnanasairamakrishna@gmail.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-gnanasairamakrishna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}
-`</a>`{=html} `<a href="https://github.com/PRK-blogler-420">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Gnana_Sai_RK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html}
-```{=html}
+<a href="mailto:gnanasairamakrishna@gmail.com"><img src="https://img.shields.io/badge/Email-gnanasairamakrishna%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a><a href="https://github.com/PRK-blogler-420"><img src="https://img.shields.io/badge/GitHub-PRK--blogler--420-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/gnana-sai-ramakrishna-0098713bb7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gnana_Sai_RK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<b>`{=html}📧 gnanasairamakrishna@gmail.com`</b>`{=html}`<br/>`{=html}
-`<b>`{=html}📱 +91-9480090065`</b>`{=html}
-```{=html}
+<b>gnanasairamakrishna@gmail.com`</b><br/>
+📱 +91-9480090065`</b>
 </p>
-```
-```{=html}
+
+
 <p align="center">
-```
-`<i>`{=html}"Learn continuously. Build practically. Solve real
-problems."`</i>`{=html}
-```{=html}
+
+<i>"Learn continuously. Build practically. Solve real
+problems."</i>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:14b8a6,100:07111f&height=120&section=footer" width="100%" alt="Animated footer"/>`{=html}
-```{=html}
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,45:14b8a6,100:07111f&height=120&section=footer" width="100%" alt="Animated footer"/>
 </p>
-```
