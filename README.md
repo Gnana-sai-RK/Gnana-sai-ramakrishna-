@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0f766e,75:14b8a6,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20%26%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,50:0f766e,100:22d3ee&height=220&section=header&text=GNANA%20SAI%20RK&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=ENGINEERING%20STUDENT%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20PYTHON%20AND%20GENAI%20ENTHUSIAST&descAlignY=62&descSize=16" width="100%" alt="Gnana Sai RK"/>
 
 </p>
 
@@ -423,8 +423,8 @@ Introductory learning related to Google Cloud and AI
 </p>
 
 <p align="center">
-<b>gnanasairamakrishna@gmail.com`</b><br/>
-📱 +91-9480090065`</b>
+<b>gnanasairamakrishna@gmail.com</b><br/>
+📱 +91-9480090065</b>
 </p>
 
 
